@@ -16,9 +16,9 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: jrexcellent/jrexcellent.github.io
-github_url: https://github.com/jrexcellent
+github_url: https://jrstronger.github.io/jrexcellent.github.io
 url: http://www.jrexcellent.com
-enforce_ssl: ityouknow.com
+enforce_ssl: jrexcellent.com
 
 ## Gem
 plugins:
