@@ -15,9 +15,9 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: JRs/JRs.github.io
-github_url: https://github.com/JRs
-url: http://www.JRs.com
+repository: jrexcellent/jrexcellent.github.io
+github_url: https://github.com/jrexcellent
+url: http://www.jrexcellent.com
 enforce_ssl: jrexcellent.com
 
 ## Gem
